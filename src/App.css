@@ -4,12 +4,17 @@
 }
 
 .inputText {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 10px;
+  padding: 0.5rem;
+  background-color: rgba(50, 216, 249, 0.25);
+  border: 1px solid rgba(50, 216, 249, 0.75);
+  color: white;
+  font-size: 1rem;
+  border-radius: 0.25rem;
   width: 300px;
 }
 
 .btn {
   padding: 20px;
+  background: linear-gradient(to right, #32D8F9, #B9F3FF);
+  color: black;
 }
